@@ -8,8 +8,8 @@
   <!-- <li>:arrow_right: Latest Project: <a href="https://ajkilmurray.github.io/todo-application/" target="_blank">Todo Web Application</a></li> -->
 </ul>
 <h3 align="center">GitHub Statistics</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adixas16&theme=dark%22%3E</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adixas16&theme=dark&layout=compact%22%3E</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adixas16&theme=dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adixas16&theme=dark&layout=compact"></p>
 <h3 align="center">Tech I Use</h3>
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
