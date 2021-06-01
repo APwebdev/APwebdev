@@ -4,7 +4,7 @@
   <li>:computer: My name is <strong>Adas</strong>, and I'm an aspiring <strong>Full-Stack Web Developer</strong> (MERN Stack).</li>
   <li>:pencil: I'm studying full stack web-development full-time (self-taught), as well as UI & Graphic Design.</li>
   <li>:keyboard: Currently learning HTML, CSS, and soon Javascript.</li>
-  <li>:envelope: If you would like to contact me, please send an email to <a href="mailto:adasdevelopment@gmail.com" target="_blank"adasdevelopment@gmail.com</a>.</li>
+  <li>:envelope: If you would like to contact me, please send an email to <a href="mailto:adasdevelopment@gmail.com" target="_blank"></a></li>
   <!-- <li>:arrow_right: Latest Project: <a href="https://ajkilmurray.github.io/todo-application/" target="_blank">Todo Web Application</a></li> -->
 </ul>
 <h3 align="center">GitHub Statistics</h3>
