@@ -1,4 +1,4 @@
-
+![Header](https://i.imgur.com/jLJR5E3.png)
 <h1 align="center">Greetings :wave:</h1>
 <ul>
   <li>:computer: My name is <strong>Adas</strong>, and I'm an aspiring <strong>Full-Stack Web Developer</strong> (MERN Stack).</li>
